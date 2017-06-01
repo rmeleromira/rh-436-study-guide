@@ -1,0 +1,34 @@
+{
+ 	"mysql": {
+ 		"host": "127.0.0.1:3306",
+ 		"user": "root",
+ 		"pass": "my-secret-pw",
+ 		"name": "semaphore"
+ 	},
+ 	"port": "",
+ 	"bugsnag_key": "",
+ 	"tmp_path": "~",
+ 	"cookie_hash": "K5ZfxSS3aJKMpLDjbEtFIPDp0taL87GWkXdgjJ8K2yE=",
+ 	"cookie_encryption": "kc8IMWwQ+FvaezbDM34hREVMBgP7KYBi8DMuhRAY2pI=",
+ 	"email_alert": false,
+ 	"email_sender": "",
+ 	"email_host": "",
+ 	"email_port": "",
+ 	"web_host": "http://localhost:8010/",
+ 	"ldap_enable": false,
+ 	"ldap_binddn": "",
+ 	"ldap_bindpassword": "",
+ 	"ldap_server": "",
+ 	"ldap_needtls": false,
+ 	"ldap_searchdn": "",
+ 	"ldap_searchfilter": "",
+ 	"ldap_mappings": {
+ 		"dn": "",
+ 		"mail": "",
+ 		"uid": "",
+ 		"cn": ""
+ 	},
+ 	"telegram_alert": false,
+ 	"telegram_chat": "",
+ 	"telegram_token": ""
+ }
